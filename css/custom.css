@@ -1,0 +1,27 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+  font-weight: normal;
+}
+
+.reveal .logo {
+  position: absolute;
+  top: 1.5em;
+  left: 1.5em;
+  font-size: 0.5em;
+  color: #392E61;
+  z-index: 10000;
+}
+
+body {
+  background: #241a48;
+  background-color: #241a48;
+}
+
+a {
+  color: #D24536 !important;
+}
